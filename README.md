@@ -1,2 +1,1 @@
-# Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard
-Analyzing Historical Stock-Revenue Data and Building a Dashboard
+(Tesla and GameStop) Analysis and Dashboard of Historical Stock/Revenue
